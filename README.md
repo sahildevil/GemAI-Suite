@@ -6,6 +6,4 @@
 •	Text-to-speech output for audio responses, enhancing accessibility.
 •	A user-friendly interface with robust handling of various input formats
 
-
-![photo_2025-01-24_10-10-13](https://github.com/user-attachments/assets/8f2d36ce-d760-4fd3-8179-cff910ee6bf5)
-![photo_2025-01-24_10-10-19](https://github.com/user-attachments/assets/859ad90e-68d6-4712-94f4-0cbf15e03ea6)
+![GemAI Suite](https://github.com/user-attachments/assets/d65b81d9-da0d-45dc-afd0-fed6ab02a019)
